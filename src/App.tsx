@@ -10,7 +10,7 @@ function App() {
         {/* Left: Avatar and Name */}
         <div className="header-left">
           <img
-            src="./src/assets/avatar.png"
+            src="./assets/avatar.png"
             alt="Glenn Avatar"
             className="avatar"
           />
